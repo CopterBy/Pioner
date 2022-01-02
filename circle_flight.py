@@ -1,4 +1,3 @@
-123
 from pioneer_sdk import Pioneer
 import cv2
 import math
